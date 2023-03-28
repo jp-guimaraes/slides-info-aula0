@@ -23,27 +23,7 @@ Opções:
    Burocracias   Presença
   Avaliações
   Reposições
-  Atraso/entrega de trabalhos
-   Apresentação</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/slides-info-aula0/home/avaliacoes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides-info-aula0/home/avaliacoes/</guid>
-      <description> Avaliações  Testes Objetivos -&amp;gt; Após cada momento síncrono
- Trabalhos  Processador de texto Apresentador de Slides Planilhas eletrônicas   Prova  Prova final   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/slides-info-aula0/home/conteudos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides-info-aula0/home/conteudos/</guid>
-      <description>Conteúdos Introdução ao Computador  O que é um computador História do computador Importância do computador na sociedade atual   Partes básicas de um computador (hardware)  Processador Memória RAM Disco rígido (HD) Placa-mãe Fonte de alimentação Periféricos (monitor, teclado, mouse)   Mídias de armazenamento  Disco rígido Pendrive CD/DVD Cartão de memória   Sistemas Operacionais  O que é um sistema operacional Fundamentos e funções Sistemas operacionais existentes Estudo de caso: Windows   Utilização básica do computador  Ligar e desligar o computador Utilização de teclado e mouse Área de trabalho Ícones, Lixeira e Menu iniciar Gerenciando pastas e arquivos   Segurança no computador  Antivírus e antispyware Backup   Instalação de novos dispositivos  Impressora Pen drive etc.</description>
+   Trabalhos   Processador de texto</description>
     </item>
     
     <item>
@@ -57,6 +37,15 @@ Opções:
   Identificar os diferentes tipos de softwares: sistemas operacionais, aplicativos e de escritório;
   Compreender os principais serviços disponíveis na Internet;
   Relacionar os benefícios do armazenamento secundário de dados;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-info-aula0/home/conteudos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-info-aula0/home/conteudos/</guid>
+      <description>Conteúdos Introdução ao Computador  O que é um computador História do computador Importância do computador na sociedade atual   Partes básicas de um computador (hardware)  Processador Memória RAM Disco rígido (HD) Placa-mãe Fonte de alimentação Periféricos (monitor, teclado, mouse)   Mídias de armazenamento  Disco rígido Pendrive CD/DVD Cartão de memória   Sistemas Operacionais  O que é um sistema operacional Fundamentos e funções Sistemas operacionais existentes Estudo de caso: Windows   Utilização básica do computador  Ligar e desligar o computador Utilização de teclado e mouse Área de trabalho Ícones, Lixeira e Menu iniciar Gerenciando pastas e arquivos   Segurança no computador  Antivírus e antispyware Backup   Instalação de novos dispositivos  Impressora Pen drive etc.</description>
     </item>
     
   </channel>
