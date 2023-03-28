@@ -5,23 +5,26 @@
     <link>https://jp-guimaraes.github.io/slides-info-aula0/home/</link>
     <description>Recent content in Homes on Fontes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://jp-guimaraes.github.io/slides-info-aula0/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/slides-info-aula0/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://jp-guimaraes.github.io/slides-info-aula0/home/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/slides-info-aula0/home/intro/</guid>
-      <description> Bem vindos!  Informações importantes Disciplina Híbrida
-Momentos síncronos e Assíncronos
- Momentos Síncronos às quartas-feiras, 19:30 -&amp;gt; 21:00
+      <description>Bem vindos!  Horários 2h/a por semana
+Terça-feira T12
 Centros de Aprendizagem (CAs)
- Sextas-feira, 10:30 -&amp;gt; 11:30 (?), semanalmente (síncrono) Assíncrono (Mensagens - Microsoft Teams)  (ambos gravados e disponibilizados via Microsoft Teams e Youtube)
- Momentos Assíncronos  Leituras complementares (textos, livros&amp;hellip;) Videoaulas Tutoriais Filmes   </description>
+Opções:
+ Quarta-feira, M6 11:15 -&amp;gt; 12:00 Terça-feira, N2 19:45 -&amp;gt; 20:30   Google sala de aula Código da turma: qkx6ocv
+  Materiais suplementares
+  Links
+  Entrega de trabalhos
+   Burocracias   Presença
+  Avaliações
+  Reposições
+  Atraso/entrega de trabalhos
+   Apresentação</description>
     </item>
     
     <item>
@@ -36,27 +39,24 @@ Centros de Aprendizagem (CAs)
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides-info-aula0/home/ementa/</link>
+      <link>https://jp-guimaraes.github.io/slides-info-aula0/home/conteudos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/slides-info-aula0/home/ementa/</guid>
-      <description> Conteúdos https://jp-guimaraes.github.io/syllabus-info/
-Mural - Microsoft Teams
- </description>
+      <guid>https://jp-guimaraes.github.io/slides-info-aula0/home/conteudos/</guid>
+      <description>Conteúdos Introdução ao Computador  O que é um computador História do computador Importância do computador na sociedade atual   Partes básicas de um computador (hardware)  Processador Memória RAM Disco rígido (HD) Placa-mãe Fonte de alimentação Periféricos (monitor, teclado, mouse)   Mídias de armazenamento  Disco rígido Pendrive CD/DVD Cartão de memória   Sistemas Operacionais  O que é um sistema operacional Fundamentos e funções Sistemas operacionais existentes Estudo de caso: Windows   Utilização básica do computador  Ligar e desligar o computador Utilização de teclado e mouse Área de trabalho Ícones, Lixeira e Menu iniciar Gerenciando pastas e arquivos   Segurança no computador  Antivírus e antispyware Backup   Instalação de novos dispositivos  Impressora Pen drive etc.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides-info-aula0/home/cronograma/</link>
+      <link>https://jp-guimaraes.github.io/slides-info-aula0/home/ementa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/slides-info-aula0/home/cronograma/</guid>
-      <description> Cronograma Semanas 1 e 2: Introdução à informática; - Conteúdos teóricos sobre Informática, Sistemas Operacionais e Internet
-Semanas 3 e 4: Softwares de Edição de Texto
-Semanas 5, 6, e 7: Softwares de Planilhas eletrônicas
-Semanas 8 e 9: Softwares de Apresentador de Slides
-Semana 10: Recuperação/Prova final
- </description>
+      <guid>https://jp-guimaraes.github.io/slides-info-aula0/home/ementa/</guid>
+      <description>Ementa Introdução ao computador. Sistemas operacionais. Internet e Serviços. Software de edição de textos, planilhas, de apresentação. Software específico da área de estudo.
+ Objetivos   Identificar e manusear os componentes básicos de um computador;
+  Identificar os diferentes tipos de softwares: sistemas operacionais, aplicativos e de escritório;
+  Compreender os principais serviços disponíveis na Internet;
+  Relacionar os benefícios do armazenamento secundário de dados;</description>
     </item>
     
   </channel>
